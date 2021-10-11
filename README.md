@@ -1,5 +1,5 @@
 # CS_A_level
-Hanif Musahebs' Computer Science Blog
+Jake Morrishs' Computer Science Blog
 
 [OCR Specification](https://www.ocr.org.uk/Images/170844-specification-accredited-a-level-gce-computer-science-h446.pdf)
 # Contents 
