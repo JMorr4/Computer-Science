@@ -1,4 +1,4 @@
-# CS_A_level
+# Computer Science _A level_
 Jake Morrishs' Computer Science Blog
 
 [OCR Specification](https://www.ocr.org.uk/Images/170844-specification-accredited-a-level-gce-computer-science-h446.pdf)
