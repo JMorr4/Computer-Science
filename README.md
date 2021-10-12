@@ -10,7 +10,7 @@ Jake Morrishs' Computer Science Blog
   * [1.1.3 Input, output and storage](https://github.com/JMorr4/Computer-Science/blob/main/Contents/1.1.3.md)
 
 * **1.2 Software and software development**
-  * [1.2.1 Systems software](https://github.com/JMorr4/Computer-Science/blob/main/Systems%20Software.)
+  * [1.2.1 Systems software](https://github.com/JMorr4/Computer-Science/blob/main/Systems%20Software.md)
   * 1.2.2 Applications generation
   * 1.2.3 Software Development
   * 1.2.4 Types of programing languages
