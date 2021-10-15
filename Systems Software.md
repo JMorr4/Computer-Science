@@ -12,6 +12,7 @@
 ## The Four Types of Software
 ![image](https://user-images.githubusercontent.com/90699946/137457279-a02a7cd8-5e94-4b93-9686-2bd238842bd1.png)
 <br>
+<br>
 
 ## Sensors and Actuators
 - An actuator is able to create something or make something happen. It is an output device which can cause physical movement.
