@@ -11,3 +11,12 @@
 
 ## The Four Types of Software
 ![image](https://user-images.githubusercontent.com/90699946/137457279-a02a7cd8-5e94-4b93-9686-2bd238842bd1.png)
+<br>
+
+## Sensors and Actuators
+- An actuator is able to create something or make something happen. It is an output device which can cause physical movement.
+- Examples include motors, and automatic doors. Sensors and actuators form what is known as a feedback loop.
+- When a sensor detects a change, it tells the actuator to make a physical change to the system.
+- This could, in turn, cause a change in what the sensors are detecting, which in turn can cause further activation of the actuator.
+
+![image](https://user-images.githubusercontent.com/90699946/137457675-b9f01edd-7212-4d8a-9fe3-aab571d78085.png)
