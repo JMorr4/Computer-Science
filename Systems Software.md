@@ -7,7 +7,7 @@
 - The barcode allows devices reading the barcode to look up data about the product on a database.
 - Different values are represented by different thicknesses of lines.
 - At the start and end of the barcode there are terminators that allow the reader to know when the barcode begins and ends.
-
+<br>
 
 ## The Four Types of Software
 ![image](https://user-images.githubusercontent.com/90699946/137457279-a02a7cd8-5e94-4b93-9686-2bd238842bd1.png)
