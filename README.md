@@ -17,7 +17,7 @@ Jake Morrishs' Computer Science Blog
 
 * **1.3 Exchanging data**
   * 1.3.1 Compression, encryption and hashing
-  * [1.3.2 Databases](https://github.com/Hanif-Musaheb/CS_A_level/blob/main/content/1.3%20Exchanging%20data/1.3.2%20Databases.md)
+  * [1.3.2 Databases](https://github.com/JMorr4/Computer-Science/blob/main/Contents/1.3.2.md)
   * 1.3.3 Networks
   * 1.3.4 Web technologies
 
