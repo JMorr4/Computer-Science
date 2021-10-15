@@ -2,6 +2,8 @@
 Jake Morrishs' Computer Science Blog
 
 [OCR Specification](https://www.ocr.org.uk/Images/170844-specification-accredited-a-level-gce-computer-science-h446.pdf)
+
+[Github Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 # Contents 
 ### Computer Systems - Component 1
 * **1.1 Components of a computer and their uses**
