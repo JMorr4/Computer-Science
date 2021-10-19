@@ -8,7 +8,7 @@ Jake Morrishs' Computer Science Blog
 ### Computer Systems - Component 1
 * **1.1 Components of a computer and their uses**
   * [1.1.1 Structure and function of the processor](https://github.com/JMorr4/Computer-Science/blob/main/Contents/1.1.1.md)
-  * 1.1.2 Types of processor
+  * [1.1.2 Types of processor](https://github.com/JMorr4/Computer-Science/blob/main/Contents/1.1.2.md)
   * [1.1.3 Input, output and storage](https://github.com/JMorr4/Computer-Science/blob/main/Contents/1.1.3.md)
 
 * **1.2 Software and software development**
