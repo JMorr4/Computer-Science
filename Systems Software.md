@@ -33,3 +33,20 @@ Systems software allows control over the hardware and software of the computer. 
 - Networking
 - Security
 - User Interface
+
+### Processor Management
+Processor management means the operating system will divide the processor up into sections, each assigned to carry out seperate tasks.
+
+### Memory Management
+Memory management means controlling and coordinating memory, assigning portions called "blocks" to various running programs to optimise overall system performance.
+
+### Peripheral Management
+Peripheral devices, such as speakers or keyboards, are hardware devices that are
+
+
+
+
+
+
+
+
