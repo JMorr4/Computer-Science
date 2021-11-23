@@ -22,7 +22,9 @@ When a sensor detects a change, it tells the actuator to make a physical change 
 
 ![image](https://user-images.githubusercontent.com/90699946/137457675-b9f01edd-7212-4d8a-9fe3-aab571d78085.png)
 
+<br>
 
+## Operating Systems
 In your blogs - Research Operating systems:
 - What they do?
 - Why needed?
