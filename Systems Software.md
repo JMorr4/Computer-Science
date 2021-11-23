@@ -25,8 +25,11 @@ When a sensor detects a change, it tells the actuator to make a physical change 
 <br>
 
 ## Operating Systems
-In your blogs - Research Operating systems:
-- What they do?
-- Why needed?
-- What are the different functions i.e. file management etc
-- What OS are available? How are these different?
+Systems software allows control over the hardware and software of the computer. An operating system can have:
+- Processor Management
+- Memory Management
+- Peripheral handling
+- Utility Software
+- Networking
+- Security
+- User Interface
