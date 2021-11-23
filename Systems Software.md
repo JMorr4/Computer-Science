@@ -21,3 +21,10 @@ Examples include motors, and automatic doors. Sensors and actuators form what is
 When a sensor detects a change, it tells the actuator to make a physical change to the system. This could, in turn, cause a change in what the sensors are detecting, which in turn can cause further activation of the actuator.
 
 ![image](https://user-images.githubusercontent.com/90699946/137457675-b9f01edd-7212-4d8a-9fe3-aab571d78085.png)
+
+
+In your blogs - Research Operating systems:
+- What they do?
+- Why needed?
+- What are the different functions i.e. file management etc
+- What OS are available? How are these different?
