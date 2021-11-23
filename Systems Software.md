@@ -28,7 +28,7 @@ When a sensor detects a change, it tells the actuator to make a physical change 
 Systems software allows control over the hardware and software of the computer. An operating system can have:
 - Processor Management
 - Memory Management
-- Peripheral handling
+- Peripheral Management
 - Utility Software
 - Networking
 - Security
@@ -41,7 +41,14 @@ Processor management means the operating system will divide the processor up int
 Memory management means controlling and coordinating memory, assigning portions called "blocks" to various running programs to optimise overall system performance.
 
 ### Peripheral Management
-Peripheral devices, such as speakers or keyboards, are hardware devices that are
+Peripheral devices, such as speakers or keyboards, are hardware devices that are connected to the computer and can communicate with it. They are able to do this because of the OS, which controls the connection between all hardware, software and peripheral devices in a computer system.
+
+### Utility Software
+Utility software is designed to maintain a computer system and optimise it's functions. These are several examples of utility software:
+- File management
+- Defragmentation
+- Backups
+- Encryption
 
 
 
