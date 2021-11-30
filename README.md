@@ -13,8 +13,8 @@ Jake Morrishs' Computer Science Blog
 
 * **1.2 Software and software development**
   * [1.2.1 Systems software](https://github.com/JMorr4/Computer-Science/blob/main/Systems%20Software.md)
-  * [1.2.2 Applications generation](https://github.com/JMorr4/Computer-Science/blob/3d495eee0f6e121e5ab9cedde2277a50dffafd0f/Contents/1.2.2.md)
-  * 1.2.3 Software Development
+  * 1.2.2 Applications generation
+  * [1.2.3 Software Development](https://github.com/JMorr4/Computer-Science/blob/3d495eee0f6e121e5ab9cedde2277a50dffafd0f/Contents/1.2.2.md)
   * 1.2.4 Types of programing languages
 
 * **1.3 Exchanging data**
