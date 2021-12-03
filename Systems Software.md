@@ -60,16 +60,13 @@ Processor management means the operating system will divide the processor up int
 
 ## Memory Management
 
-The memory manager must split RAM into workable chunks of storage and allocate those chunks to processes in a fair manner. As processes start and stop at different times and have different memory demands, keeping track of what memory is free becomes a challenge.
+The memory manager must split RAM into workable chunks of storage and allocate those chunks to processes. As processes start and stop at different times and have different memory demands, keeping track of what memory is free becomes a challenge.
 
-Allocation of RAM can be done through two managing techniques that will be explored in this chapter, both employing a table to monitor which process has been allocated which chunk of memory. 
+Security is also a core concern for memory management. If processes could inspect or change each other’s memory, this could bypass many security protocols put in place to protect user data.
 
-This allows RAM to be shared without worrying about any processes accidentally overwriting each other or gaining unauthorised access, as their access will be strictly monitored by the OS.
+Therefore, allocation of RAM can be done through two managing techniques. Both of these techniques involve using a table to monitor which process has been allocated to which chunk of memory. This allows RAM to be shared without worrying about any processes accidentally overwriting each other or gaining unauthorised access, as their access will be strictly monitored by the OS.
 
-Security is a core concern for memory management. If processes could inspect or change each other’s memory, this could bypass many security protocols put in place to protect user data. For example, if a process could inspect the data from your web browser, it could very easily manipulate what you see on screen.
-
-Finally, the last consideration is the use of virtual memory to extend memory beyond what is physically available.
-It is key to remember at this stage that RAM will hold:
+Finally, the last consideration is the use of virtual memory to extend memory beyond what RAM can physically hold. It is key to remember at this stage that RAM will hold:
 - The OS
 - Currently running programs
 - Current files and data you are working on
