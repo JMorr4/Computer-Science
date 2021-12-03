@@ -57,6 +57,7 @@ Processor management means the operating system will divide the processor up int
 ### Types of Software
 ![image](https://user-images.githubusercontent.com/90699946/143052421-9b2d983d-6fcc-4583-9ecf-6d3355828a12.png)
 
+<br>
 
 ## Memory Management
 
@@ -70,6 +71,10 @@ Finally, the last consideration is the use of virtual memory to extend memory be
 - The OS
 - Currently running programs
 - Current files and data you are working on
+
+### Paging
+
+
 
 
 
