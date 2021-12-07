@@ -102,6 +102,14 @@ Segmentation is when main memory is divided into variable sized blocks called se
 
 ### Interrupts
 An interrupt is a signal from a device (or other source such as a running program) to request processing time from the CPU.
+Interrupts are classified by their source. The most common classes of interrupts are:
+
+| Interrupt Class  | Definition |
+| ------------- | ------------- |
+| Program  | Data or programs are collected grouped and processed at a later date.  |
+| Timer  | Data or programs are collected grouped and processed at a later date.  |
+| I/O  | Data or programs are collected grouped and processed at a later date.  |
+| Hardware Failure  | Data or programs are collected grouped and processed at a later date.  |
 
 
 
