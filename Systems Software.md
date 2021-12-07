@@ -34,6 +34,8 @@ Systems software allows control over the hardware and software of the computer. 
 - Security
 - User Interface
 
+<br>
+
 ### Types of OS
 - Distributed OS - this is type of OS that is run on multiple processor allowing it to distribute tasks.
 - Embedded OS - this is an OS that preforms a small range of specific task on a sungle device which allows it consume less power.
@@ -77,9 +79,16 @@ Finally, the last consideration is the use of virtual memory to extend memory be
 - Current files and data you are working on
 
 ### Paging
+Paging is when main memory is divided into fixed size blocks called page-frames and programs are divided into blocks of the same size, called pages – pages are swapped’ between secondary storage and the page-frames as necessary.
 
+### Segmentation
+Segmentation is when main memory is divided into variable sized blocks called segments where each segment corresponds to a program routine (e.g. a subroutine or procedure) or a data structure/array.
 
+<br>
 
+![image](https://user-images.githubusercontent.com/90699946/145043518-246aa69a-0013-4e55-89ab-9f440f90c029.png)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 
