@@ -40,6 +40,16 @@ Systems software allows control over the hardware and software of the computer. 
 - Distributed OS - this is type of OS that is run on multiple processor allowing it to distribute tasks.
 - Embedded OS - this is an OS that preforms a small range of specific task on a sungle device which allows it consume less power.
 
+| Type  | Definition | Example of Use |
+| ------------- | ------------- | ------------- |
+| Batch OS  | Data or programs are collected grouped and processed at a later date.  | Payroll, stock control and billing systems.  |
+| Interactive OS  | Allows the user and the computer to be in direct two-way communication  | Select from a menu at ATM.   |
+| Real-time OS | Inputs immediately affect the outputs. Timing is critical | Control of nuclear power plants, air traffic control systems.  |
+| Network OS  | Allow a computer on a network to serve requests from other computers for data and provide access to other resources such as printer and file systems.  | Manage simultaneous access by multiple users  |
+| Multiuser OS | Handle many people running their programmes on the computer at the same time | A number of terminals communicating with a central computer which allocates processing time to each terminal in turn.  |
+| Multiprogramming OS  | Ability to run many programmes apparently at the same time.  | Mainframe systems. Each job is allocated a small amount of processing time (time slice) in turn.  |
+| Multitasking OS  | The ability to hold several programmes in RAM at one time but the user switches between them.   | Usually uses GUI’s. Facilitates import and export of data. |
+
 ### Processor Management
 Processor management means the operating system will divide the processor up into sections, each assigned to carry out seperate tasks.
 
@@ -92,16 +102,6 @@ Segmentation is when main memory is divided into variable sized blocks called se
 
 ### Interrupts
 An interrupt is a signal from a device (or other source such as a running program) to request processing time from the CPU.
-
-| Type  | Definition | Example of Use |
-| ------------- | ------------- | ------------- |
-| Batch OS  | Data or programs are collected grouped and processed at a later date.  | Payroll, stock control and billing systems.  |
-| Interactive OS  | Allows the user and the computer to be in direct two-way communication  | Select from a menu at ATM.   |
-| Real-time OS | Inputs immediately affect the outputs. Timing is critical | Control of nuclear power plants, air traffic control systems.  |
-| Network OS  | Allow a computer on a network to serve requests from other computers for data and provide access to other resources such as printer and file systems.  | Manage simultaneous access by multiple users  |
-| Multiuser OS | Handle many people running their programmes on the computer at the same time | A number of terminals communicating with a central computer which allocates processing time to each terminal in turn.  |
-| Multiprogramming OS  | Ability to run many programmes apparently at the same time.  | Mainframe systems. Each job is allocated a small amount of processing time (time slice) in turn.  |
-| Multitasking OS  | The ability to hold several programmes in RAM at one time but the user switches between them.   | Usually uses GUI’s. Facilitates import and export of data. |
 
 
 
