@@ -90,6 +90,8 @@ Segmentation is when main memory is divided into variable sized blocks called se
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+### Interrupts
+An interrupt is a signal from a device (or other source such as a running program) to request processing time from the CPU.
 
 
 
