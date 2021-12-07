@@ -34,6 +34,10 @@ Systems software allows control over the hardware and software of the computer. 
 - Security
 - User Interface
 
+### Types of OS
+- Distributed OS - this is type of OS that is run on multiple processor allowing it to distribute tasks.
+- Embedded OS - this is an OS that preforms a small range of specific task on a sungle device which allows it consume less power.
+
 ### Processor Management
 Processor management means the operating system will divide the processor up into sections, each assigned to carry out seperate tasks.
 
