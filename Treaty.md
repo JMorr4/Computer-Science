@@ -10,9 +10,6 @@
 ### Conditions applied to Hanif
 - No plugging in devices
 
-### Conditions applied to Jake
-- No turning off Hanifs laptop
-
 #### Signature of both parties
 ***Jake***
 <br>
