@@ -12,3 +12,7 @@
 
 ### Conditions applied to Jake
 - No turning off Hanifs laptop
+
+#### Signature of both parties
+***Jake***
+***Hanif***
