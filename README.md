@@ -32,6 +32,8 @@ Jake Morrishs' Computer Science Blog
   * 1.5.1 Computing related legislation
   * 1.5.2 Moral and ethical issues
 
+<br>
+
 ### Algorithms and programming - Component 2
 * **2.1 Elements of computational thinking**
   * 2.1.1 Thinking abstractly
@@ -46,6 +48,8 @@ Jake Morrishs' Computer Science Blog
 
 * **2.3 Algorithms**
   * 2.3.1 Algorithms
+
+<br>
 
 ### Coding Projects
 * **Small Tasks**
