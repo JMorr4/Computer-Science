@@ -56,4 +56,4 @@ Jake Morrishs' Computer Science Blog
   * Small task
 
 * **Games**
-  * Game
+  * [BlackJack](https://github.com/JMorr4/Computer-Science/blob/main/Contents/BlackJack.md)
