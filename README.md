@@ -41,7 +41,7 @@ Jake Morrishs' Computer Science Blog
   * 2.1.5 Thinking concurrently
 
 * **2.2 Problem solving and programming**
-  * 2.2.1 Programming techniques
+  * 2.2.1 [Programming techniques](https://github.com/JMorr4/Computer-Science/blob/main/Contents/2.2.1.md)
   * 2.2.2 Computational methods
 
 * **2.3 Algorithms**
