@@ -6,11 +6,16 @@ window.title("BlackJack")
 window.setup(width=800, height=800)
 window.tracer(0)
 
-
-window.addshape("BlackJack.gif")
+window.bgpic("BlackJack.gif")
+window.addshape("Jack of Clubs.gif")
 
 ae=turtle.Turtle()
-ae.shape('BlackJack.gif')
+ae.shape('Jack of Clubs.gif')
+
+window.listen()
+ae.ondrag(ae.goto)
+ae.pu()
+ae.goto(250,-250)
 
 while True:
     window.update()
