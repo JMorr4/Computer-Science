@@ -53,7 +53,7 @@ Jake Morrishs' Computer Science Blog
 
 ### Coding Projects
 * **Small Tasks**
-  * Small task
+  * [Times Tables](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Times%20Tables.md)
 
 * **Games**
   * [BlackJack](https://github.com/JMorr4/Computer-Science/blob/main/Contents/BlackJack.md)
