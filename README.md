@@ -46,3 +46,10 @@ Jake Morrishs' Computer Science Blog
 
 * **2.3 Algorithms**
   * 2.3.1 Algorithms
+
+### Coding Projects
+* **Small Tasks**
+  * Small task
+
+* **Games**
+  * Game
