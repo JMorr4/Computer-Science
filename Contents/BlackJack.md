@@ -1,3 +1,5 @@
+REMEMBER: Download images on own computer
+
 ```python
 import turtle
 
