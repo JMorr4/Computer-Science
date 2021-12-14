@@ -42,6 +42,27 @@ while True:
 ![Jack of Clubs](https://user-images.githubusercontent.com/90699946/145813158-46370eb7-5745-4f66-9bf4-5bb73713bf93.gif)
 
 # Spades
+![Ace of Spades](https://user-images.githubusercontent.com/90699946/146025728-ab4693fa-e077-4bd9-8aeb-197d9ef5d66c.gif)
+![Two of Spades](https://user-images.githubusercontent.com/90699946/146025736-186e7196-25d8-40e5-895c-6b65c4beb0b6.gif)
+![Three of Spades](https://user-images.githubusercontent.com/90699946/146025756-19fbf5ac-74d6-4574-9a3f-356bc09af4a1.gif)
+![Four of Spades](https://user-images.githubusercontent.com/90699946/146025779-20485a37-d749-49df-bf6e-6ab480db7313.gif)
+![Five of Spades](https://user-images.githubusercontent.com/90699946/146025787-b6f543a8-b0c3-459c-bef3-effb7408e3c7.gif)
+![Six of Spades](https://user-images.githubusercontent.com/90699946/146025792-19772109-2d76-43ce-b2e0-845b75954026.gif)
+![Seven of Spades](https://user-images.githubusercontent.com/90699946/146025803-a9f24dee-41fb-473f-880a-e284528c22bf.gif)
+![Eight of Spades](https://user-images.githubusercontent.com/90699946/146025810-ac52a549-b3cd-4fb8-8f31-66882bff52c2.gif)
+![Nine of Spades](https://user-images.githubusercontent.com/90699946/146025824-cd1ca92b-f0b2-4c65-b2cc-754d24b061e8.gif)
+![Ten of Spades](https://user-images.githubusercontent.com/90699946/146025835-b0295f29-ff6a-49ee-9197-458270830ae1.gif)
+![Jack of Spades](https://user-images.githubusercontent.com/90699946/146025852-4dcb7e17-ac56-4481-84cb-7905ec9b415e.gif)
+![Queen of Spades](https://user-images.githubusercontent.com/90699946/146025867-1d90cd8e-7852-4250-af33-be82c8b4bb75.gif)
+![King Of Spades](https://user-images.githubusercontent.com/90699946/146025873-ee63c3ce-9531-4031-bba3-8e9f80a62ccf.gif)
+
+
+
+
+
+
+
+
 
 
 
