@@ -56,6 +56,39 @@ while True:
 ![Queen of Spades](https://user-images.githubusercontent.com/90699946/146025867-1d90cd8e-7852-4250-af33-be82c8b4bb75.gif)
 ![King Of Spades](https://user-images.githubusercontent.com/90699946/146025873-ee63c3ce-9531-4031-bba3-8e9f80a62ccf.gif)
 
+# Hearts
+![King of Hearts](https://user-images.githubusercontent.com/90699946/146025968-ea955880-7253-490a-b0e9-0d7d1754859a.gif)
+![Queen of Hearts](https://user-images.githubusercontent.com/90699946/146025973-67e0ebf2-b737-423a-aac5-bcdb01ef11de.gif)
+![Jack of Hearts](https://user-images.githubusercontent.com/90699946/146025976-e771cdbf-fcdb-47d7-93c5-9feecd771bf5.gif)
+![Ten of Hearts](https://user-images.githubusercontent.com/90699946/146025978-d151c34a-eff2-4d6d-8578-d8d9599b4154.gif)
+![Nine of Hearts](https://user-images.githubusercontent.com/90699946/146025981-f0cd5208-38b8-4f6e-8269-5d2942b3df68.gif)
+![Eight of Hearts](https://user-images.githubusercontent.com/90699946/146026550-3b1bdff0-c723-4c90-8608-dfc7dbcf6d14.gif)
+![Seven of Hearts](https://user-images.githubusercontent.com/90699946/146025986-39ca2a41-52e4-40fc-a578-09d2d48871d2.gif)
+![Six of Hearts](https://user-images.githubusercontent.com/90699946/146025987-de2dad95-3fd2-4e77-b678-8099b7595c5e.gif)
+![Five of Hearts](https://user-images.githubusercontent.com/90699946/146025988-cc2382d9-3854-44c6-86d4-098bf2153161.gif)
+![Four of Hearts](https://user-images.githubusercontent.com/90699946/146025991-b7ba6aba-2d70-4687-bc32-60c61905dfc4.gif)
+![Three of Hearts](https://user-images.githubusercontent.com/90699946/146025992-c5228e81-e3b0-4a54-afc3-d44723b67a48.gif)
+![Two of Hearts](https://user-images.githubusercontent.com/90699946/146025993-99eca57e-a7bc-407d-9dfd-568b3caaf2a7.gif)
+![Ace of Hearts](https://user-images.githubusercontent.com/90699946/146025995-cd2b3239-7aa9-45b4-824c-97184e28a1f9.gif)
+
+# Diamonds
+![King of Diamonds](https://user-images.githubusercontent.com/90699946/146026108-b939e1bd-6a61-4e33-9001-0f2ee184bb1a.gif)
+![Queen of Diamonds](https://user-images.githubusercontent.com/90699946/146026111-421cf7c2-44d6-4f37-8ac5-0d36bbfb84c5.gif)
+![Jack of Diamonds](https://user-images.githubusercontent.com/90699946/146026112-14ae6c80-688f-4018-a53a-f8ff2c9daf91.gif)
+![Ten of Diamonds](https://user-images.githubusercontent.com/90699946/146026113-d1079d0f-e468-4b25-8ea0-c7b146aeb5b7.gif)
+![Nine of Diamonds](https://user-images.githubusercontent.com/90699946/146026114-7fefbb49-8e08-4355-ac7a-5ac9eecc902e.gif)
+![Eight of Diamonds](https://user-images.githubusercontent.com/90699946/146026116-ff2eaf1b-e610-4f31-86aa-05e0783bf9a1.gif)
+![Seven of Diamonds](https://user-images.githubusercontent.com/90699946/146026117-026fec00-7a69-4267-85e5-03fb377b0b01.gif)
+![Six of Diamonds](https://user-images.githubusercontent.com/90699946/146026119-a6e63a18-c1bf-4008-aa13-9c240fa1ef5e.gif)
+![Five of Diamonds](https://user-images.githubusercontent.com/90699946/146026120-9b2b1ac2-a289-4b8c-9b0d-161d7a31baca.gif)
+![Four of Diamonds](https://user-images.githubusercontent.com/90699946/146026123-9f784563-ed5b-46a7-8288-96dcb72d954f.gif)
+![Three of Diamonds](https://user-images.githubusercontent.com/90699946/146026126-de598122-70d2-49f3-a90c-f24dd21385a4.gif)
+![Two of Diamonds](https://user-images.githubusercontent.com/90699946/146026127-50af6713-f947-47b5-9806-16d3bdbe0687.gif)
+![Ace of Diamonds](https://user-images.githubusercontent.com/90699946/146026128-db1480fd-766b-4bdf-8d42-694f75eeb9fd.gif)
+
+
+
+
 
 
 
