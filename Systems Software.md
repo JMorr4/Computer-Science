@@ -131,13 +131,15 @@ The scheduler ensures that the computer:
 ### Processor scheduling methods:
 **Round Robin** - Round Robin allows programs certain amounts of time on the CPU; meaning it will rapidly change between different users as it process their command in their alloted time (their alloted time slices). The OS does this by have clock generate interupts to stop the program at the end of its time slice. This method guarantees reasonable response time for all users.
 
-**First Come** First Served-Jobs are processed in the order in which they arrive, with no system priorities.
+**First Come First Served** -Jobs are processed in the order in which they arrive, with no system priorities.
 
-**Shortest Remaining Time** -This method processes the commands that have the lowest estimated time of completion. This reduces the amount of small jobs behind big ones sent to be run by computers. A disadvantage of the method is that it requires an estimation of the time to completion, this disadvantage makes this method preferable for batch or regular jobs.
+**Multi-level feedack queues** - This method gives preferance to: short jobs, I/O bound processes, it also seperates processes into categories based on their need for the processes. the method implements multiple queues for different jobs based on there amount of processing time. This method is made to maximise processor use.
 
 **Shortest Job First** This method is similar to shortest remaining time having the same advantages and disadavantages; the difference is that this program takes into consideration how time critical a task is. Which is why it is used at universities giving preferance to small jobs a waiting for less busy times to process non-critical big jobs.
 
-**Multi-level feedack queues** - This method gives preferance to: short jobs, I/O bound processes, it also seperates processes into categories based on their need for the processes. the method implements multiple queues for different jobs based on there amount of processing time. This method is made to maximise processor use.
+**Shortest Remaining Time** -This method processes the commands that have the lowest estimated time of completion. This reduces the amount of small jobs behind big ones sent to be run by computers. A disadvantage of the method is that it requires an estimation of the time to completion, this disadvantage makes this method preferable for batch or regular jobs.
+
+
 
 
 
