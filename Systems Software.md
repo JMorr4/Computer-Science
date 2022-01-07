@@ -85,10 +85,10 @@ Finally, the last consideration is the use of virtual memory to extend memory be
 - Current files and data you are working on
 
 ### Paging
-Paging is when main memory is divided into fixed size blocks called page-frames and programs are divided into blocks of the same size, called pages – pages are swapped’ between secondary storage and the page-frames as necessary.
+Paging is when the OS divides the main memory into equally sized blocks called **page-frames**, and programs are split into smaller blocks of the same size, called **pages**. These pages can then be assigned to memory locations in the RAM. Pages can be swapped between secondary storage and the page-frames if necessary. Paging is therefore used for faster access to data.
 
 ### Segmentation
-Segmentation is when main memory is divided into variable sized blocks called segments where each segment corresponds to a program routine (e.g. a subroutine or procedure) or a data structure/array.
+Segmentation is when main memory is divided logically, not equally, into variable sized blocks called segments. This means each segment may contain modules or functions.
 
 <br>
 
