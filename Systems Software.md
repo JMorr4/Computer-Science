@@ -69,10 +69,6 @@ Utility software is designed to maintain a computer system and optimise it's fun
 ### Networking
 Processor management means the operating system will divide the processor up into sections, each assigned to carry out seperate tasks.
 
-
-### Types of Software
-![image](https://user-images.githubusercontent.com/90699946/143052421-9b2d983d-6fcc-4583-9ecf-6d3355828a12.png)
-
 <br>
 
 ## Memory Management
