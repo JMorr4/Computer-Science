@@ -135,14 +135,13 @@ There are different processor scheduling methods:
 
 **Round Robin** - The Round Robin method uses the clock to generate interrupts to determine when a program should stop using the processor and another one should use it. Round Robin allocates a certain amount of processor time to each program, so this method guarantees reasonable response time for all users.
 
-**First Come First Served** - Jobs are processed in the order in which they arrive, with no system priorities.
+**First Come First Served** - Tasks are processed in the order in which they arrive, with no system priorities.
 
-**Multi-level feedack queues** - This method gives preferance to: short jobs, I/O bound processes, it also seperates processes into categories based on their need for the processes. the method implements multiple queues for different jobs based on there amount of processing time. This method is made to maximise processor use.
+**Multi-level feedack queues** - This method determines which processes are most important, and aims to increase efficient processor use. It gives priority to shorter tasks and I/O bound processes. It seperates processes into categories based on their need for the processer, and implements multiple queues for different tasks based on the amount of processing time.
 
-**Shortest Job First** This method is similar to shortest remaining time having the same advantages and disadavantages; the difference is that this program takes into consideration how time critical a task is. Which is why it is used at universities giving preferance to small jobs a waiting for less busy times to process non-critical big jobs.
+**Shortest Job First** - This method takes into consideration how time critical a task is. Shortest jobs are favoured, as it gives the minimum average waiting time for a given set of processes. However, longer processes may not be able to use the processor if shorter tasks keep coming, which is called **starvation**.
 
-**Shortest Remaining Time** -This method processes the commands that have the lowest estimated time of completion. This reduces the amount of small jobs behind big ones sent to be run by computers. A disadvantage of the method is that it requires an estimation of the time to completion, this disadvantage makes this method preferable for batch or regular jobs.
-
+**Shortest Remaining Time** - This method calculates the time it will take to carry out each task, and it carries out the shorter tasks first. However, as this method requires an estimation of the time to completion, it is usually used for batch or regular jobs because it's not efficient enough.
 
 
 
