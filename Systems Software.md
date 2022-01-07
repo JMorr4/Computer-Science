@@ -131,6 +131,8 @@ The scheduler ensures that the computer:
 
 <br>
 
+### Scheduling Methods
+
 There are different processor scheduling methods:
 
 **Round Robin** - The Round Robin method uses the clock to generate interrupts to determine when a program should stop using the processor and another one should use it. Round Robin allocates a certain amount of processor time to each program, so this method guarantees reasonable response time for all users.
