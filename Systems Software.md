@@ -128,7 +128,7 @@ The scheduler ensures that the computer:
 - Makes maximum use of CPU time.
 
 
-#### Processor scheduling methods:
+### Processor scheduling methods:
 **Round Robin** - Round Robin allows programs certain amounts of time on the CPU; meaning it will rapidly change between different users as it process their command in their alloted time (their alloted time slices). The OS does this by have clock generate interupts to stop the program at the end of its time slice. This method guarantees reasonable response time for all users.
 
 **First Come** First Served-Jobs are processed in the order in which they arrive, with no system priorities.
