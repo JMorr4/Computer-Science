@@ -122,23 +122,22 @@ Interrupts are classified by their source. The most common classes of interrupts
 - Interrupts are hardware signals sent to the CPU to inform it that an external event has occurred. Interrupts are initially handled by the CPU before being passed over to the OS, whereas scheduling decides which process should be run next or which ones should be interrupted, which is known as **pre-empting**. 
 
 
-Processor Scheduling
-With computer unable to run multiple applications simultaneously the OS needs to be able to allocate processor time to each one. Since a computer can only process one instruction at a time it can get around this by carrying out small parts of multiple tasks it can give the appearance of carrying out multiple tasks at the same time. The objectives of the scheduler are to:
+### Processor Scheduling
+The scheduler ensures that the computer:
+- Processes as many tasks as possible in a given time.
+- Makes maximum use of CPU time.
 
-maximise throughput, be fair to all user on a multi-user system
-provide acceptable response time for all the users
-ensure that the hardware capacity is as full as possible
 
-Processor scheduling methods:
--Round Robin - Round Robin allows programs certain amounts of time on the CPU; meaning it will rapidly change between different users as it process their command in their alloted time (their alloted time slices). The OS does this by have clock generate interupts to stop the program at the end of its time slice. This method guarantees reasonable response time for all users.
+#### Processor scheduling methods:
+**Round Robin** - Round Robin allows programs certain amounts of time on the CPU; meaning it will rapidly change between different users as it process their command in their alloted time (their alloted time slices). The OS does this by have clock generate interupts to stop the program at the end of its time slice. This method guarantees reasonable response time for all users.
 
--First Come First Served-Jobs are processed in the order in which they arrive, with no system priorities.
+**First Come** First Served-Jobs are processed in the order in which they arrive, with no system priorities.
 
--Shortest Remaining Time-This method processes the commands that have the lowest estimated time of completion. This reduces the amount of small jobs behind big ones sent to be run by computers. A disadvantage of the method is that it requires an estimation of the time to completion, this disadvantage makes this method preferable for batch or regular jobs.
+**Shortest Remaining Time** -This method processes the commands that have the lowest estimated time of completion. This reduces the amount of small jobs behind big ones sent to be run by computers. A disadvantage of the method is that it requires an estimation of the time to completion, this disadvantage makes this method preferable for batch or regular jobs.
 
--Shortest Job First- This method is similar to shortest remaining time having the same advantages and disadavantages; the difference is that this program takes into consideration how time critical a task is. Which is why it is used at universities giving preferance to small jobs a waiting for less busy times to process non-critical big jobs.
+**Shortest Job First** This method is similar to shortest remaining time having the same advantages and disadavantages; the difference is that this program takes into consideration how time critical a task is. Which is why it is used at universities giving preferance to small jobs a waiting for less busy times to process non-critical big jobs.
 
--Multi-level feedack queues - This method gives preferance to: short jobs, I/O bound processes, it also seperates processes into categories based on their need for the processes. the method implements multiple queues for different jobs based on there amount of processing time. This method is made to maximise processor use.
+**Multi-level feedack queues** - This method gives preferance to: short jobs, I/O bound processes, it also seperates processes into categories based on their need for the processes. the method implements multiple queues for different jobs based on there amount of processing time. This method is made to maximise processor use.
 
 
 
