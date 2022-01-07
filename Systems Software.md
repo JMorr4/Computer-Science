@@ -119,7 +119,7 @@ Interrupts are classified by their source. The most common classes of interrupts
 ### Scheduling
 - A processor can only ever carry out one task at a time, technically making multi-tasking impossible. However, by carrying out a smaller parts of multiple tasks, it can appear that the processor is multi-tasking.
 - **Scheduling** is the term used to define how and when a process is swapped in and out of the CPU to enable multitasking. Each OS has a different way of performing scheduling.
-- Interrupts are hardware signals sent to the CPU to inform it that an external event has occurred. Interrupts are initially handled by the CPU before being passed over to the OS. This differs from scheduling, which makes decisions on which process should be run next or which ones should be interrupted, known as pre-empting. 
+- Interrupts are hardware signals sent to the CPU to inform it that an external event has occurred. Interrupts are initially handled by the CPU before being passed over to the OS, whereas scheduling decides which process should be run next or which ones should be interrupted, which is known as **pre-empting**. 
 
 
 Processor Scheduling
