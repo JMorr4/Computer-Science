@@ -129,11 +129,13 @@ The scheduler ensures that the computer:
 - Processes as many tasks as possible in a given time.
 - Makes maximum use of CPU time.
 
+<br>
 
-### Processor scheduling methods:
+There are different processor scheduling methods:
+
 **Round Robin** - The Round Robin method uses the clock to generate interrupts to determine when a program should stop using the processor and another one should use it. Round Robin allocates a certain amount of processor time to each program, so this method guarantees reasonable response time for all users.
 
-**First Come First Served** -Jobs are processed in the order in which they arrive, with no system priorities.
+**First Come First Served** - Jobs are processed in the order in which they arrive, with no system priorities.
 
 **Multi-level feedack queues** - This method gives preferance to: short jobs, I/O bound processes, it also seperates processes into categories based on their need for the processes. the method implements multiple queues for different jobs based on there amount of processing time. This method is made to maximise processor use.
 
