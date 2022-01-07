@@ -123,6 +123,8 @@ Interrupts are classified by their source. The most common classes of interrupts
 
 
 ### Processor Scheduling
+Processor scheduling is the allocation of a computer's processor power to specific tasks. The term **scheduling** is used because it assigns a specific time to use the processor to individual tasks.
+
 The scheduler ensures that the computer:
 - Processes as many tasks as possible in a given time.
 - Makes maximum use of CPU time.
