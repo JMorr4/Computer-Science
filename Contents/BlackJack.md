@@ -92,10 +92,4 @@ while True:
 
 
 
-
-
-
-
-
-
-
+![Back of Card](https://user-images.githubusercontent.com/90699946/149178525-064b5cf0-df7a-42d9-ad68-f61615e0f906.gif)
