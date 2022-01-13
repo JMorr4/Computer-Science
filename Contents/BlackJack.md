@@ -27,7 +27,8 @@ while True:
 import turtle
 import random
 
-cardList = ["S1.gif", "H2", ""]
+cardsInSuit = 13
+
 suits = ('Spades', 'Hearts', 'Clubs', 'Diamonds')
 
 window = turtle.Screen()
@@ -42,14 +43,14 @@ window.bgpic("BlackJack.gif")
 
 for suit in suits:
     
-    for n in range(1,14):
+    for n in range(1, cardsInSuit + 1):
         card = suit + str(n)
 
-        name = card + ".gif"
-        window.addshape(name)
+        fileName = card + ".gif"
+        window.addshape(fileName)
         
         ae = turtle.Turtle()
-        ae.shape(name)
+        ae.shape(fileName)
 
         window.listen()
         ae.ondrag(ae.goto)
