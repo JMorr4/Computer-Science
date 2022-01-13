@@ -23,6 +23,124 @@ while True:
     window.update()
 ```
 
+```python
+import turtle
+import random
+
+cardList = ["S1.gif", "H2", ""]
+suits = ('Spades', 'Hearts', 'Clubs', 'Diamonds')
+
+window = turtle.Screen()
+window.title("BlackJack")
+window.setup(width = 800, height = 800)
+window.tracer(0)
+# Max Height: 1000
+# Max Width: 1750
+
+window.bgpic("BlackJack.gif")
+
+
+for suit in suits:
+    
+    for n in range(1,14):
+        card = suit + str(n)
+
+        name = card + ".gif"
+        window.addshape(name)
+        
+        ae = turtle.Turtle()
+        ae.shape(name)
+
+        window.listen()
+        ae.ondrag(ae.goto)
+        ae.pu()
+        ae.goto(250,-250)
+
+        window.update()
+
+while True:
+    window.update()
+
+
+##card + ".gif"
+
+##ae = turtle.Turtle()
+##ae.shape(card)
+##
+##window.listen()
+##ae.ondrag(ae.goto)
+##ae.pu()
+##ae.goto(250,-250)
+
+####for a in range(10):
+##shape = window.addshape("Ace of Spades.gif")
+##window.addshape("Ace of Hearts.gif")
+##window.addshape("Ace of Clubs.gif")
+##window.addshape("Ace of Diamonds.gif")
+##
+##window.addshape("King of Spades.gif")
+##window.addshape("King of Hearts.gif")
+##window.addshape("King of Clubs.gif")
+##window.addshape("King of Diamonds.gif")
+##
+##window.addshape("Jack of Clubs.gif")
+##window.addshape("Eight of Clubs.gif")
+##
+##def listAppending(shape):
+##
+##
+##
+##def cardOnScreen(a):
+##    card = turtle.Turtle()
+##    card.shape(cardList[random.randint(a)])
+##
+##
+##
+##
+### Back of Card
+##ae=turtle.Turtle()
+##ae.shape('Back of Card.gif')
+##
+##window.listen()
+##ae.ondrag(ae.goto)
+##ae.pu()
+##ae.goto(-250,-250)
+##
+##
+### Jack of Clubs
+##ae=turtle.Turtle()
+##ae.shape('Jack of Clubs.gif')
+##
+##window.listen()
+##ae.ondrag(ae.goto)
+##ae.pu()
+##ae.goto(250,-250)
+##
+##
+##window.addshape("Ace of Clubs.gif")
+##
+##ae=turtle.Turtle()
+##ae.shape('Ace of Clubs.gif')
+##
+##window.listen()
+##ae.ondrag(ae.goto)
+##ae.pu()
+##ae.goto(200,-250)
+
+
+##ae=turtle.Turtle()
+##ae.shape('Eight of Clubs.gif')
+##
+##window.listen()
+##ae.ondrag(ae.goto)
+##ae.pu()
+##ae.goto(150,-250)
+##
+##
+##while True:
+##    window.update()
+```
+
 ![All Cards](https://user-images.githubusercontent.com/90699946/145810994-6806f77a-7d5b-4455-b2b8-e5d57945b75e.gif)
 ![BlackJack](https://user-images.githubusercontent.com/90699946/145813149-70fc240d-a934-4a4b-9a73-a8370b42ef17.gif)
 
