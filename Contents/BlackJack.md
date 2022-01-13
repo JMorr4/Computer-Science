@@ -1,4 +1,4 @@
-REMEMBER: Download images on own computer
+# BlackJack Python Project
 
 ```python
 import turtle
@@ -144,7 +144,7 @@ while True:
 ![All Cards](https://user-images.githubusercontent.com/90699946/145810994-6806f77a-7d5b-4455-b2b8-e5d57945b75e.gif)
 ![BlackJack](https://user-images.githubusercontent.com/90699946/145813149-70fc240d-a934-4a4b-9a73-a8370b42ef17.gif)
 
-# Clubs
+## Clubs
 ![Ace of Clubs](https://user-images.githubusercontent.com/90699946/145811128-c4d20a04-1347-4ac3-a473-bdc628bbe1a5.gif)
 ![Eight of Clubs](https://user-images.githubusercontent.com/90699946/145811166-781f02d6-45b1-45b2-b77b-1f90d6b1deb7.gif)
 ![Five of Clubs](https://user-images.githubusercontent.com/90699946/145812964-07b76c5e-fff1-4b82-877a-f92fc0f21072.gif)
@@ -159,7 +159,7 @@ while True:
 ![Two of Clubs](https://user-images.githubusercontent.com/90699946/145813085-11a0fca6-19cf-47c9-8759-40910596d5d7.gif)
 ![Jack of Clubs](https://user-images.githubusercontent.com/90699946/145813158-46370eb7-5745-4f66-9bf4-5bb73713bf93.gif)
 
-# Spades
+## Spades
 ![Ace of Spades](https://user-images.githubusercontent.com/90699946/146025728-ab4693fa-e077-4bd9-8aeb-197d9ef5d66c.gif)
 ![Two of Spades](https://user-images.githubusercontent.com/90699946/146025736-186e7196-25d8-40e5-895c-6b65c4beb0b6.gif)
 ![Three of Spades](https://user-images.githubusercontent.com/90699946/146025756-19fbf5ac-74d6-4574-9a3f-356bc09af4a1.gif)
@@ -174,7 +174,7 @@ while True:
 ![Queen of Spades](https://user-images.githubusercontent.com/90699946/146025867-1d90cd8e-7852-4250-af33-be82c8b4bb75.gif)
 ![King Of Spades](https://user-images.githubusercontent.com/90699946/146025873-ee63c3ce-9531-4031-bba3-8e9f80a62ccf.gif)
 
-# Hearts
+## Hearts
 ![King of Hearts](https://user-images.githubusercontent.com/90699946/146025968-ea955880-7253-490a-b0e9-0d7d1754859a.gif)
 ![Queen of Hearts](https://user-images.githubusercontent.com/90699946/146025973-67e0ebf2-b737-423a-aac5-bcdb01ef11de.gif)
 ![Jack of Hearts](https://user-images.githubusercontent.com/90699946/146025976-e771cdbf-fcdb-47d7-93c5-9feecd771bf5.gif)
@@ -189,7 +189,7 @@ while True:
 ![Two of Hearts](https://user-images.githubusercontent.com/90699946/146025993-99eca57e-a7bc-407d-9dfd-568b3caaf2a7.gif)
 ![Ace of Hearts](https://user-images.githubusercontent.com/90699946/146025995-cd2b3239-7aa9-45b4-824c-97184e28a1f9.gif)
 
-# Diamonds
+## Diamonds
 ![King of Diamonds](https://user-images.githubusercontent.com/90699946/146026108-b939e1bd-6a61-4e33-9001-0f2ee184bb1a.gif)
 ![Queen of Diamonds](https://user-images.githubusercontent.com/90699946/146026111-421cf7c2-44d6-4f37-8ac5-0d36bbfb84c5.gif)
 ![Jack of Diamonds](https://user-images.githubusercontent.com/90699946/146026112-14ae6c80-688f-4018-a53a-f8ff2c9daf91.gif)
@@ -208,6 +208,6 @@ while True:
 
 
 
-# The Back of a Card
+## The Back of a Card
 
 ![Back of Card](https://user-images.githubusercontent.com/90699946/149178525-064b5cf0-df7a-42d9-ad68-f61615e0f906.gif)
