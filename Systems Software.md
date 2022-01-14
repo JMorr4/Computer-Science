@@ -9,11 +9,6 @@
 - At the start and end of the barcode there are terminators that allow the reader to know when the barcode begins and ends.
 <br>
 
-## The Four Types of Software
-![image](https://user-images.githubusercontent.com/90699946/137457279-a02a7cd8-5e94-4b93-9686-2bd238842bd1.png)
-<br>
-<br>
-
 ## Sensors and Actuators
 An actuator is able to create something or make something happen. It is an output device which can cause physical movement.
 Examples include motors, and automatic doors. Sensors and actuators form what is known as a feedback loop.
@@ -22,6 +17,11 @@ When a sensor detects a change, it tells the actuator to make a physical change 
 
 ![image](https://user-images.githubusercontent.com/90699946/137457675-b9f01edd-7212-4d8a-9fe3-aab571d78085.png)
 
+<br>
+
+## The Four Types of Software
+![image](https://user-images.githubusercontent.com/90699946/137457279-a02a7cd8-5e94-4b93-9686-2bd238842bd1.png)
+<br>
 <br>
 
 ## Operating Systems
