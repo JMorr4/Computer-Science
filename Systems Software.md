@@ -117,6 +117,7 @@ Interrupts are classified by their source. The most common classes of interrupts
 - **Scheduling** is the term used to define how and when a process is swapped in and out of the CPU to enable multitasking. Each OS has a different way of performing scheduling.
 - Interrupts are hardware signals sent to the CPU to inform it that an external event has occurred. Interrupts are initially handled by the CPU before being passed over to the OS, whereas scheduling decides which process should be run next or which ones should be interrupted, which is known as **pre-empting**. 
 
+<br>
 
 ### Processor Scheduling
 Processor scheduling is the allocation of a computer's processor power to specific tasks. The term **scheduling** is used because it assigns a specific time to use the processor to individual tasks.
