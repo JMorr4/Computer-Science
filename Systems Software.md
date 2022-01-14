@@ -42,8 +42,8 @@ Systems software allows control over the hardware and software of the computer. 
 
 | Type  | Definition | Example of Use |
 | ------------- | ------------- | ------------- |
-| Batch OS  | Data or programs are collected grouped and processed at a later date.  | Payroll, stock control and billing systems.  |
-| Interactive OS  | Allows the user and the computer to be in direct two-way communication  | Select from a menu at ATM.   |
+| Batch OS  | Programs are collected, grouped, and processed at a later date.  | Payroll, stock control and billing systems.  |
+| Interactive OS  | Allows the user and the computer to be in a direct two-way communication.  | Select from a menu at an ATM.   |
 | Real-time OS | Inputs immediately affect the outputs. Timing is critical | Control of nuclear power plants, air traffic control systems.  |
 | Network OS  | Allow a computer on a network to serve requests from other computers for data and provide access to other resources such as printer and file systems.  | Manage simultaneous access by multiple users  |
 | Multiuser OS | Handle many people running their programmes on the computer at the same time | A number of terminals communicating with a central computer which allocates processing time to each terminal in turn.  |
