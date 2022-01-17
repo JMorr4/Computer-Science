@@ -54,6 +54,7 @@ Jake Morrishs' Computer Science Blog
 ### Coding Projects
 * **Small Tasks**
   * [Times Tables](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Times%20Tables.md)
+  * [Recursion](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Recursion.md)
 
 * **Games**
   * [BlackJack](https://github.com/JMorr4/Computer-Science/blob/main/Contents/BlackJack.md)
