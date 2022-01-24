@@ -57,6 +57,7 @@ Jake Morrishs' Computer Science Blog
   * [Recursion](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Recursion.md)
   * [Arithmetic Test](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Arithmetic%20Test.md)
   * [Turtle Circles](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Turtle%20Circles.md)
+  * [Classes and Buttons](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Classes%20and%20Buttons.md)
 
 * **Games**
   * [BlackJack](https://github.com/JMorr4/Computer-Science/blob/main/Contents/BlackJack.md)
