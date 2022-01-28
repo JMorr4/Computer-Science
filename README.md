@@ -59,5 +59,6 @@ Jake Morrishs' Computer Science Blog
   * [Turtle Circles](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Turtle%20Circles.md)
   * [Classes and Buttons](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Classes%20and%20Buttons.md)
 
-* **Games**
+* **Larger Projects**
   * [BlackJack](https://github.com/JMorr4/Computer-Science/blob/main/Contents/BlackJack.md)
+  * [Farm](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Farm.md)
