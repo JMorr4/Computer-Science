@@ -1,5 +1,11 @@
 # BlackJack Python Project
 
+## Iteration 1
+
+For my first stab at this project, I was just discovering the inbuilt turtle module in python. Although we'd covered it in class before, I'd never really fully grasped any way to properly utilise it. However, after a some time, I managed to work out how to set up a new window, modify it, and deploy images onto it's screen. I even found out how to move these images using my mouse. 
+
+However, at this time, I hadn't fully decided whether Blackjack was for me, so there were only a couple of images downloaded on my computer, one being the green poker background and the Jack of Clubs.
+
 ```python
 import turtle
 
@@ -23,7 +29,21 @@ while True:
     window.update()
 ```
 
+<br>
+
+During the coding, I realised all new images spawned at coordinates (0,0). I found a way to change this with the ```goto(x, y)``` feature. This is what the output of my first iteration looks like, keeping in mind I'm able to move this card around.
+
+<br>
+
 ![image](https://user-images.githubusercontent.com/90699946/151679215-8f782b58-7819-427b-b0d7-81bde3045f37.png)
+
+<br>
+
+## Images
+
+Next, I had to spend a lot of time managing the images I was going to use for the UI in this project. It took a while finding, cutting, cropping and downloading everything, but they've been clumped together and uploaded [here](https://github.com/JMorr4/Computer-Science/blob/main/Contents/BlackJack%20Project/Images.md).
+
+<br>
 
 ```python
 import turtle
@@ -177,9 +197,3 @@ while True:
 ```
 
 ![image](https://user-images.githubusercontent.com/90699946/151679288-b5a8306f-7606-4822-960d-01a1df2d7007.png)
-
-
-
-## Images
-
-I had to spend a lot of time managing the images I was going to use for the UI in this project. It took a while finding, cutting, cropping and downloading everything, but they've been clumped together and uploaded [here](https://github.com/JMorr4/Computer-Science/blob/main/Contents/BlackJack%20Project/Images.md).
