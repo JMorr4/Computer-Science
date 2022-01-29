@@ -7,12 +7,12 @@ Jake Morrishs' Computer Science Blog
 # Contents 
 ### Computer Systems - Component 1
 * **1.1 Components of a computer and their uses**
-  * [1.1.1 Structure and function of the processor](https://github.com/JMorr4/Computer-Science/blob/main/Contents/1.1.1.md)
-  * [1.1.2 Types of processor](https://github.com/JMorr4/Computer-Science/blob/main/Contents/1.1.2.md)
-  * [1.1.3 Input, output and storage](https://github.com/JMorr4/Computer-Science/blob/main/Contents/1.1.3.md)
+  * [1.1.1 Structure and function of the processor](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.1/1.1.1.md)
+  * [1.1.2 Types of processor](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.1/1.1.2.md)
+  * [1.1.3 Input, output and storage](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.1/1.1.3.md)
 
 * **1.2 Software and software development**
-  * [1.2.1 Systems software](https://github.com/JMorr4/Computer-Science/blob/main/Contents/1.2.1.md)
+  * [1.2.1 Systems software](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
   * 1.2.2 Applications generation
   * [1.2.3 Software Development](https://github.com/JMorr4/Computer-Science/blob/main/Contents/1.2.3.md)
   * 1.2.4 Types of programing languages
@@ -43,7 +43,7 @@ Jake Morrishs' Computer Science Blog
   * 2.1.5 Thinking concurrently
 
 * **2.2 Problem solving and programming**
-  * [2.2.1 Programming techniques](https://github.com/JMorr4/Computer-Science/blob/main/Contents/2.2.1.md)
+  * [2.2.1 Programming techniques](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%202.2/2.2.1.md)
   * 2.2.2 Computational methods
 
 * **2.3 Algorithms**
@@ -53,13 +53,13 @@ Jake Morrishs' Computer Science Blog
 
 ### Coding Projects
 * **Small Tasks**
-  * [Times Tables](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Times%20Tables.md)
-  * [Recursion](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Recursion.md)
-  * [Arithmetic Test](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Arithmetic%20Test.md)
-  * [Turtle Circles](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Turtle%20Circles.md)
-  * [Classes and Buttons](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Classes%20and%20Buttons.md)
+  * [Times Tables](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Python%20Projects/Times%20Tables.md)
+  * [Recursion](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Python%20Projects/Recursion.md)
+  * [Arithmetic Test](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Python%20Projects/Arithmetic%20Test.md)
+  * [Turtle Circles](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Python%20Projects/Turtle%20Circles.md)
+  * [Classes and Buttons](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Python%20Projects/Classes%20and%20Buttons.md)
 
 * **Larger Projects**
-  * [BlackJack](https://github.com/JMorr4/Computer-Science/blob/main/Contents/BlackJack.md)
-  * [Space Invaders](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Space%20Invaders.md)
-  * [Farm](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Farm.md)
+  * [BlackJack](https://github.com/JMorr4/Computer-Science/blob/main/Contents/BlackJack%20Project/BlackJack.md)
+  * [Space Invaders](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Python%20Projects/Space%20Invaders.md)
+  * [Farm](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Python%20Projects/Farm.md)
