@@ -3,9 +3,6 @@
 ### Background
 ![BlackJack](https://user-images.githubusercontent.com/90699946/145813149-70fc240d-a934-4a4b-9a73-a8370b42ef17.gif)
 
-### Cards
-![All Cards](https://user-images.githubusercontent.com/90699946/145810994-6806f77a-7d5b-4455-b2b8-e5d57945b75e.gif)
-
 ### Clubs
 ![Ace of Clubs](https://user-images.githubusercontent.com/90699946/145811128-c4d20a04-1347-4ac3-a473-bdc628bbe1a5.gif)
 ![Eight of Clubs](https://user-images.githubusercontent.com/90699946/145811166-781f02d6-45b1-45b2-b77b-1f90d6b1deb7.gif)
