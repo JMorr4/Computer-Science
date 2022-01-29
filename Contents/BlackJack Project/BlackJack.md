@@ -55,6 +55,8 @@ Next, I had to spend a lot of time managing the images I was going to use for th
 
 ## Iteration 2
 
+So I'd managed to code how to add images onto the screen, and I had all these necessary images, the next step was to just code them all into my program. Easier said than done. Or rather, it's harder to find a truly efficient way to do it. Although I'm awful at coding, it still seemed so stupid to me that I would have to waste almost 60 lines on code that would just add 60 images to the python dictionary. So I came up with this code:
+
 ```python
 import turtle
 import random
@@ -95,7 +97,21 @@ while True:
     window.update()
 ```
 
+<br>
+
+This took me probably too long, but I'd managed to code what I'd wanted efficiently. However, the hardest task I underwent was having to rename all 52 card images just for this to work. Anyway, here's the ouput:
+
+<br>
+
 ![image](https://user-images.githubusercontent.com/90699946/151679246-09be05ea-e304-417d-a685-2174dd646a39.png)
+
+
+
+<br>
+
+
+
+## Iteration 3
 
 ```python
 import turtle
