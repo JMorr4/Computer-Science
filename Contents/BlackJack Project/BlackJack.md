@@ -65,6 +65,9 @@ while True:
     window.update()
 ```
 
+![image](https://user-images.githubusercontent.com/90699946/151679246-09be05ea-e304-417d-a685-2174dd646a39.png)
+
+
 ## Images
 
 I had to spend a lot of time managing the images I was going to use for the UI in this project. It took a while finding, cutting, cropping and downloading everything, but they've been clumped together and uploaded [here](https://github.com/JMorr4/Computer-Science/blob/main/Contents/BlackJack%20Project/Images.md).
