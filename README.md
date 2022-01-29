@@ -61,4 +61,5 @@ Jake Morrishs' Computer Science Blog
 
 * **Larger Projects**
   * [BlackJack](https://github.com/JMorr4/Computer-Science/blob/main/Contents/BlackJack.md)
+  * [Space Invaders](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Space%20Invaders.md)
   * [Farm](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Farm.md)
