@@ -37,13 +37,23 @@ During the coding, I realised all new images spawned at coordinates (0,0). I fou
 
 ![image](https://user-images.githubusercontent.com/90699946/151679215-8f782b58-7819-427b-b0d7-81bde3045f37.png)
 
+
+
 <br>
+
+
 
 ## Images
 
 Next, I had to spend a lot of time managing the images I was going to use for the UI in this project. It took a while finding, cutting, cropping and downloading everything, but they've been clumped together and uploaded in a seperate file [here](https://github.com/JMorr4/Computer-Science/blob/main/Contents/BlackJack%20Project/Images.md).
 
+
+
 <br>
+
+
+
+## Iteration 2
 
 ```python
 import turtle
