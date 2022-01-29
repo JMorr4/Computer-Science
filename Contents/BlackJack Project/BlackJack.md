@@ -23,6 +23,8 @@ while True:
     window.update()
 ```
 
+![image](https://user-images.githubusercontent.com/90699946/151679215-8f782b58-7819-427b-b0d7-81bde3045f37.png)
+
 ```python
 import turtle
 import random
