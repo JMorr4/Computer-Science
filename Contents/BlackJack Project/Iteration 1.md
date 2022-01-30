@@ -43,4 +43,6 @@ During the coding, I realised all new images spawned at coordinates (0,0). I fou
 
 ## Images
 
-Next, I had to spend a lot of time managing the images I was going to use for the UI in this project. It took a while finding, cutting, cropping and downloading everything, but, to save space, they've been clumped together and uploaded in a seperate file [here](https://github.com/JMorr4/Computer-Science/blob/main/Contents/BlackJack%20Project/Images.md). At this point I had named each of these images as such: "Jack of Clubs", etc. Later, I would have to go through the painstaking process of renaming all of these to better names suited for my program.
+Next, I had to spend a lot of time managing the images I was going to use for the UI in this project. It took a while finding, cutting, cropping and downloading everything, but, to save space, they've been clumped together and uploaded in a seperate file [here](https://github.com/JMorr4/Computer-Science/blob/main/Contents/BlackJack%20Project/Images.md). 
+
+At this point I had named each of these images as such: "Jack of Clubs", etc. Later, I would have to go through the painstaking process of renaming all of these to better names suited for my program.
