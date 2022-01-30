@@ -52,4 +52,4 @@ This took me way too long, but I'd managed to code what I'd wanted efficiently. 
 
 <br>
 
-All 52 cards in the deck, at the moment, spawn in on top of each other. However, using ```goto(250 - n, -250)```, I could view them in a neat array. But there was still a vital card missing from this deck that I had to code in.
+All 52 cards in the deck, at the moment, spawn in on top of each other. However, using ```goto(250 - n, -250)```, I could view them in a neat array. Unfortunately, this was useless, as I didn't actually want the user to see all these cards.
