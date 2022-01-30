@@ -25,7 +25,7 @@ This came up with a prompt for the user to input some text, which wasn't what I 
 
 <br>
 
-However, I eventually managed to find a function: ```onclick()```, that allowed an event to occur if the user clicked on a shape, which was *exactly* what I wanted. I created two turtle squares, red and green, shoved them into the top right portion of the window, and coded in a string for each to print depending on which colour I clicked. It worked.
+However, I eventually managed to find a function: ```onclick()```, that allowed an event to occur if the user clicked on a shape, which was *exactly* what I wanted. I created two turtle squares, red and green, shoved them into the top left portion of the window, and coded in a string for each to print depending on which colour I clicked. It worked.
 
 I then changed the buttons to produce a different image each depending on which one I clicked. That also worked.
 
