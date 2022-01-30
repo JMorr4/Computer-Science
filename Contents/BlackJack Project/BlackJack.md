@@ -99,7 +99,7 @@ while True:
 
 <br>
 
-This took me probably too long, but I'd managed to code what I'd wanted efficiently. However, the hardest task I underwent was having to rename all 52 card images just for this to work. Anyway, here's the ouput:
+This took me way too long, but I'd managed to code what I'd wanted efficiently. However, the hardest task I underwent was having to rename all 52 card images just for this to work. Anyway, here's the output:
 
 <br>
 
