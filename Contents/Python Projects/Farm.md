@@ -162,8 +162,11 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-Potato
-'''python
+
+## Potato
+
+```python
+
 from Farm import *
 
 class Potato(Crop):
@@ -211,7 +214,9 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-crops
+
+## Crops
+
 ```python
 from Farm import *
 from Potato import *
@@ -260,7 +265,9 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-Wheat
+
+## Wheat
+
 ```python
 from Farm import *
 
