@@ -324,3 +324,191 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+
+<br>
+
+## Fields
+
+```python
+from potato import *
+from Wheat import *
+from Sheep import *
+from Cow import *
+
+class Field:
+    """Simulate a field that can contain animals and crops"""
+
+    # Constructor
+    def __init__(self, maxAnimals, maxCrops):
+        self.crops = []
+        self.animals = []
+        self.maxAnimals = maxAnimals
+        self.maxCrops = maxCrops
+```
+
+<br>
+
+## Cows
+
+```python
+from Farm import *
+from Potato import *
+
+def display_menu():
+    print()
+    print("Which animal would you like to create>")
+    ()
+    print("1. Cow")
+    print("2. Sheep")
+    print()
+
+def select_option():
+    validOption = False
+
+    while not validOption:
+        try:
+            choice = int(input("Option selected: "))
+            if choice in (1, 2):
+                validOption = True
+
+            else:
+                print("Please enter a valid option")
+
+        except ValueError:
+            print("Please enter a valid option")
+
+    return choice
+
+
+def manageCow(cow):
+    print("This is the cow management process")
+    print()
+
+    noexit = True
+
+    while noexit:
+        displayMenu()
+        option = get_menu_choice()
+
+        print()
+
+        if option == 1:
+            manualGrow(crop)
+            print()
+
+        elif option == 2:
+            autoGrow(crop, 30)
+            print()
+
+        elif option == 3:
+            print(crop.report())
+
+        elif option == 0:
+            noexit = False
+            print()
+
+    print("Thank you for using the animal management program")
+
+
+def createCrop():
+    displayMenu()
+    choice = select_option()
+
+    if choice == 1:
+        newCrop = Potato()
+
+    elif choice == 2:
+        newCrop = Wheat()
+
+    return newCrop
+
+def main():
+    newCrop = createCrop()
+    manageCrop(newCrop)
+
+if __name__ == "__main__":
+    main()
+```
+
+<br>
+
+## Sheep
+
+from Farm import *
+from Potato import *
+
+def display_menu():
+    print()
+    print("Which animal would you like to create>")
+    ()
+    print("1. Cow")
+    print("2. Sheep")
+    print()
+
+def select_option():
+    validOption = False
+
+    while not validOption:
+        try:
+            choice = int(input("Option selected: "))
+            if choice in (1, 2):
+                validOption = True
+
+            else:
+                print("Please enter a valid option")
+
+        except ValueError:
+            print("Please enter a valid option")
+
+    return choice
+
+
+def manageSheep(Sheep):
+    print("This is the cow management process")
+    print()
+
+    noexit = True
+
+    while noexit:
+        displayMenu()
+        option = get_menu_choice()
+
+        print()
+
+        if option == 1:
+            manualGrow(crop)
+            print()
+
+        elif option == 2:
+            autoGrow(crop, 30)
+            print()
+
+        elif option == 3:
+            print(crop.report())
+
+        elif option == 0:
+            noexit = False
+            print()
+
+    print("Thank you for using the animal management program")
+
+
+def createCrop():
+    displayMenu()
+    choice = select_option()
+
+    if choice == 1:
+        newCrop = Potato()
+
+    elif choice == 2:
+        newCrop = Wheat()
+
+    return newCrop
+
+def main():
+    newCrop = createCrop()
+    manageCrop(newCrop)
+
+if __name__ == "__main__":
+    main()
+```
