@@ -889,7 +889,7 @@ def manage_field(field):
         elif menu == 0:
             end = True
             
-    print("\nSee you next time")
+    print("\nGoodbye")
         
 def main():
     field1 = Field(3,12)
@@ -949,3 +949,11 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+
+## Testing
+
+<br>
+
+![image](https://user-images.githubusercontent.com/90699946/154955712-7a1c8f2b-3419-403a-b1f2-6030a759b20e.png)
+![image](https://user-images.githubusercontent.com/90699946/154955845-d62e3f96-4890-41cb-a5bd-4def0ffa857b.png)
+
