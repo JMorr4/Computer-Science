@@ -1,4 +1,6 @@
-Some folder admin and hardcoding directories
+## Iteration 4
+
+To start off with, I wanted to change IDEs from Python IDLE to Visual Studio 2019, in order to access more features to help me. During this, I needed to do some folder admin and hardcoding directories into my code.
 
 Changed over to visual studio
 
