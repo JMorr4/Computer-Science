@@ -31,20 +31,18 @@ window.bgpic(cardsDir + "Background.gif")
 
 # Setting up lists
 suits = ['Spades', 'Hearts', 'Clubs', 'Diamonds']
-cards = []
-cardsValue = []
-
+undealtCards = []
 
 
 
 # Function to find the value of each card
-def valueOfCard(fileName):
+def calculateValue(fileName):
     value = int(fileName.strip("Images/Spades Hearts Clubs Diamonds.gif"))
 
     if value > 9:
         value = 10
 
-    cardsValue.append(value)
+    return value
 
 
 ## Function to deploy cards onto screen
@@ -59,7 +57,6 @@ def addingCards(fileName):
     window.update()
 
 
-
 ## Add all card images to the turtle database
 for suit in suits:
     
@@ -67,10 +64,8 @@ for suit in suits:
         cardName = suit + str(a)
         fileName = cardsDir + cardName + ".gif"
 
-        valueOfCard(fileName)
-
         window.addshape(fileName)
-        cards.append(fileName)
+        undealtCards.append(fileName)
 
 
 
@@ -114,20 +109,20 @@ def generateRandomCardOnClick(x, y):
 
 def generateRandomCard():
 
-    if len(cards) == 0:
+    if len(undealtCards) == 0:
             print("Out of Cards!")
 
     else:
-        randomNumber = random.randint(0, len(cards)-1)
-        fileName = cards[randomNumber]
+        randomNumber = random.randint(0, len(undealtCards)-1)
+
+        fileName = undealtCards[randomNumber]
+        cardValue = calculateValue(fileName)
 
         print(fileName)
+        print(cardValue)
+        
         addingCards(fileName)
-        #cards.remove(fileName)
-
-        value = cardsValue[randomNumber]
-        print(value)
-        #cardsValue.remove(cardsValue[randomNumber])
+        undealtCards.remove(fileName)
 
 
 
@@ -141,10 +136,6 @@ window.listen()
 
 yellowCircle()
 yellowCircle.trueSquare.onclick(generateRandomCardOnClick)
-
-print(cardsValue)
-print(cards)
-
 
 
 
