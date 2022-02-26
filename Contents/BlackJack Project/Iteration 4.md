@@ -26,7 +26,6 @@ window.tracer(0)
 # Max Width: 1750
 
 cardsDir = "Images/"
-
 window.bgpic(cardsDir + "Background.gif")
 
 
@@ -40,9 +39,9 @@ cardsValue = []
 
 # Function to find the value of each card
 def valueOfCard(fileName):
-    value = fileName.strip("Images/Spades Hearts Clubs Diamonds.gif")
+    value = int(fileName.strip("Images/Spades Hearts Clubs Diamonds.gif"))
 
-    if int(value) > 10:
+    if value > 9:
         value = 10
 
     cardsValue.append(value)
@@ -50,14 +49,15 @@ def valueOfCard(fileName):
 
 ## Function to deploy cards onto screen
 def addingCards(fileName):
-    ae = turtle.Turtle()
-    ae.shape(fileName)
+    card = turtle.Turtle()
+    card.shape(fileName)
 
     window.listen()
-    ae.ondrag(ae.goto)
-    ae.pu()
+    card.ondrag(card.goto)
+    card.pu()
 
     window.update()
+
 
 
 ## Add all card images to the turtle database
@@ -88,7 +88,7 @@ def redCircle():
 ## Generate card function
 def generateCard(x, y):
     window.addshape(cardsDir + 'Back of Card.gif')
-    ae=turtle.Turtle()
+    ae = turtle.Turtle()
     ae.shape(cardsDir + 'Back of Card.gif')
 
     ae.ondrag(ae.goto)
@@ -117,11 +117,18 @@ def generateRandomCard():
     if len(cards) == 0:
             print("Out of Cards!")
 
-    else:   
-        fileName = random.choice(cards)
+    else:
+        randomNumber = random.randint(0, len(cards)-1)
+        fileName = cards[randomNumber]
+
         print(fileName)
         addingCards(fileName)
-        cards.remove(fileName)
+        #cards.remove(fileName)
+
+        value = cardsValue[randomNumber]
+        print(value)
+        #cardsValue.remove(cardsValue[randomNumber])
+
 
 
 ## Call function
@@ -136,12 +143,11 @@ yellowCircle()
 yellowCircle.trueSquare.onclick(generateRandomCardOnClick)
 
 print(cardsValue)
-
+print(cards)
 
 
 
 
 while True:
     window.update()
-
 ```
