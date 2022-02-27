@@ -62,7 +62,7 @@ So far, there isn't actually any point to me calculating the value of each card,
 
 <br>
 
-Next, I switched up some aspects of the UI. I changed the square buttons to some trendy new circles, a red one and a yellow one. I deleted the grey square, mainly because I couldn't remember why I put it there in the first place. I changed the background, because I got bored of looking at the old one all the time, and I repositioned the buttons.
+Next, I switched up some aspects of the UI. I changed the square buttons to some trendy new circles, a yellow one and a still useless red one. I deleted the grey square, mainly because I couldn't remember why I put it there in the first place. I changed the background, because I got bored of looking at the old one all the time, and I repositioned the buttons.
 
 ![image](https://user-images.githubusercontent.com/90699946/155899376-25116002-62a6-495a-8a41-fc62e4a3ce29.png)
 
@@ -105,7 +105,7 @@ for a in range(2):
 
 ## Final Code
 
-With all that said, here's my final code:
+All of these implementations into my code means that Blackjack is now possible to play, as  With all that said, here's my final code:
 
 ```python
 
