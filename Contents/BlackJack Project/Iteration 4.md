@@ -60,6 +60,48 @@ So far, there isn't actually any point to me calculating the value of each card,
 
 ![image](https://user-images.githubusercontent.com/90699946/155899099-7464ff4e-a4b2-4ec1-a614-3f49217a3b90.png)
 
+<br>
+
+Next, I switched up some aspects of the UI. I changed the square buttons to some trendy new circles, a red one and a yellow one. I deleted the grey square, mainly because I couldn't remember why I put it there in the first place. I changed the background, because I got bored of looking at the old one all the time, and I repositioned the buttons.
+
+![image](https://user-images.githubusercontent.com/90699946/155899376-25116002-62a6-495a-8a41-fc62e4a3ce29.png)
+
+The reason there are some random cards on the screen is because they are now the starting cards dealt to you at the beginning of the game. The ones on the top half of the screen belong to the computer, the ones on the bottom are yours. I spent a long time fiddling around with using ```goto()``` to try and move a string, such as "Images/Diamonds5.gif", but I couldn't find a way to fetch the card I wanted to position from an embedded function, still in it's correct form, so I had to just adapt the contents of the variables instead:
+
+```python
+## Player starting cards
+for a in range(2):
+    randomNumber = random.randint(0, len(undealtCards)-1)
+
+    fileName = undealtCards[randomNumber]
+    cardValue = calculateValue(fileName)
+
+    print(fileName)
+    print(cardValue)
+        
+    startingCard = addingCards(fileName)
+    startingCard.goto(-100 + (a*30), -150)
+
+    undealtCards.remove(fileName)
+
+
+## Computer starting cards
+for a in range(2):
+    randomNumber = random.randint(0, len(undealtCards)-1)
+
+    fileName = undealtCards[randomNumber]
+    cardValue = calculateValue(fileName)
+
+    print(fileName)
+    print(cardValue)
+        
+    startingCard = addingCards(fileName)
+    startingCard.goto(-100 + (a*30), 150)
+
+    undealtCards.remove(fileName)
+```
+
+<br>
 
 ```python
 
