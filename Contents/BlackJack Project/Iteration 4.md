@@ -107,8 +107,6 @@ for a in range(2):
 
 With all that said, here's my final code:
 
-<br>
-
 ```python
 
 import turtle
