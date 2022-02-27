@@ -1,6 +1,6 @@
 ## Iteration 4
 
-To start off with, I wanted to change IDEs from Python IDLE to Visual Studio 2019, in order to access more features to help me. During this, I needed to do some folder admin and hardcoding directories into my code.
+To start off with, I wanted to change IDEs from Python IDLE to Visual Studio 2019, in order to access more features to help me. During this, I created a seperate folder for images instead of having all my files in the same folder. This meant I had to hardcode the directory into my code
 
 Changed over to visual studio
 
