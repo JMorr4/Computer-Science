@@ -20,7 +20,7 @@ for suit in suits:
         undealtCards.append(fileName) 
 ```
 
-After this, I just coded a lot of little changes to the code. First of, I added a way to prevent the same card being dealt twice:
+After this, I just coded a lot of little changes to the code. First of all, I added a way to prevent the same card being dealt twice, and I also made a new function called ```generateRandomCardOnClick()```, with its only purpose being to trash those annoying x and y parameters. This meant that I could, in the future, call the function ```generateRandomCard()``` and be able to pass in other parameters.
 
 ```python
 def generateRandomCardOnClick(x, y):
@@ -44,12 +44,22 @@ def generateRandomCard():
         undealtCards.remove(fileName)
 ```
 
+You may also notice the line: ```cardValue = calculateValue(fileName)```. This links back to a function I made to calculate the value of each card, following the rules of Blackjack, where all coloured cards (e.g. Jacks, Queens, Kings) have their values capped at 10. I have yet to make a rule for the ace card.
 
-Added some code to prevent the same card from spawning twice, and also to stop the program crashing whenever the cards ran out
+```python
+def calculateValue(fileName):
+    value = int(fileName.strip("Images/Spades Hearts Clubs Diamonds.gif"))
 
-![image](https://user-images.githubusercontent.com/90699946/155420666-74fc249c-8343-442f-8453-43b464198e06.png)
+    if value > 9:
+        value = 10
 
-![image](https://user-images.githubusercontent.com/90699946/155622477-ec494a99-2cbf-4a49-bbcd-c3920ef6afdd.png)
+    return value
+```
+
+So far, there isn't actually any point to me calculating the value of each card, it's only feature in my code is outputted in the command prompt after the card has spawned:
+
+![image](https://user-images.githubusercontent.com/90699946/155899099-7464ff4e-a4b2-4ec1-a614-3f49217a3b90.png)
+
 
 ```python
 
