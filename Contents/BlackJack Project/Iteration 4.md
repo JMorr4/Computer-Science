@@ -1,8 +1,49 @@
 ## Iteration 4
 
-To start off with, I wanted to change IDEs from Python IDLE to Visual Studio 2019, in order to access more features to help me. During this, I created a seperate folder for images instead of having all my files in the same folder. This meant I had to hardcode the directory into my code
+To start off with, I wanted to change IDEs from Python IDLE to Visual Studio 2019, in order to access more features to help me. During this, I created a seperate folder for images instead of having all my files in the same folder. This meant I had to hardcode the directory into my code:
 
-Changed over to visual studio
+```python
+cardsDir = "Images/"
+window.bgpic(cardsDir + "Background.gif")
+```
+
+This also meant that every item in the array ```undealtCards``` was changed, making the list even more of an eyesore to look at than before.
+
+```python
+for suit in suits:
+    
+    for a in range(1, 14):
+        cardName = suit + str(a)
+        fileName = cardsDir + cardName + ".gif"
+
+        window.addshape(fileName)
+        undealtCards.append(fileName) 
+```
+
+After this, I just coded a lot of little changes to the code. First of, I added a way to prevent the same card being dealt twice:
+
+```python
+def generateRandomCardOnClick(x, y):
+    generateRandomCard()
+
+def generateRandomCard():
+
+    if len(undealtCards) == 0:
+            print("Out of Cards!")
+
+    else:
+        randomNumber = random.randint(0, len(undealtCards)-1)
+
+        fileName = undealtCards[randomNumber]
+        cardValue = calculateValue(fileName)
+
+        print(fileName)
+        print(cardValue)
+        
+        addingCards(fileName)
+        undealtCards.remove(fileName)
+```
+
 
 Added some code to prevent the same card from spawning twice, and also to stop the program crashing whenever the cards ran out
 
