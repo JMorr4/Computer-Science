@@ -1,6 +1,5 @@
 # Computer Science A level
 
-TEST ON FRIDAY 11/03/22
 Jake Morrishs' Computer Science Blog
 
 [OCR Specification](https://www.ocr.org.uk/Images/170844-specification-accredited-a-level-gce-computer-science-h446.pdf)
