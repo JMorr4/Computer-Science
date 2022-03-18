@@ -25,7 +25,7 @@ Jake Morrishs' Computer Science Blog
   * 1.3.4 Web technologies
 
 * **1.4 Data types, data structures and algorithms**
-  * 1.4.1 Data types
+  * [1.4.1 Data types](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.4/1.4.1.md)
   * 1.4.2 Data structures
   * 1.4.3 Boolean Algebra
 
