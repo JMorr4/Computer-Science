@@ -26,7 +26,7 @@ Jake Morrishs' Computer Science Blog
 
 * **1.4 Data types, data structures and algorithms**
   * [1.4.1 Data types](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.4/1.4.1.md)
-  * 1.4.2 Data structures
+  * [1.4.2 Data structures](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.4/1.4.2.md)
   * 1.4.3 Boolean Algebra
 
 * **1.5 Legal, moral, cultural and ethical issues**
