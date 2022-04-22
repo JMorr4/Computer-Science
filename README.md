@@ -21,7 +21,7 @@ Jake Morrishs' Computer Science Blog
 * **1.3 Exchanging data**
   * 1.3.1 Compression, encryption and hashing
   * [1.3.2 Databases](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.3/1.3.2.md)
-  * 1.3.3 Networks
+  * [1.3.3 Networks](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.3/1.3.3.md)
   * 1.3.4 Web technologies
 
 * **1.4 Data types, data structures and algorithms**
