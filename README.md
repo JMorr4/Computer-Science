@@ -8,24 +8,24 @@ Jake Morrishs' Computer Science Blog
 # Contents 
 ### Computer Systems - Component 1
 * **1.1 Components of a computer and their uses**
-  * [1.1.1 Structure and function of the processor](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.1/1.1.1.md)
-  * [1.1.2 Types of processor](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.1/1.1.2.md)
+  * [**1.1.1 Structure and function of the processor**](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.1/1.1.1.md)
+  * [**1.1.2 Types of processor**](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.1/1.1.2.md)
   * [1.1.3 Input, output and storage](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.1/1.1.3.md)
 
 * **1.2 Software and software development**
-  * [1.2.1 Systems software](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
-  * [1.2.2 Applications generation](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.2.md)
+  * [**1.2.1 Systems software**](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
+  * [**1.2.2 Applications generation**](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.2.md)
   * [1.2.3 Software Development](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.3.md)
-  * [1.2.4 Types of programming languages](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.4.md)
+  * [**1.2.4 Types of programming languages**](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.4.md)
 
 * **1.3 Exchanging data**
   * 1.3.1 Compression, encryption and hashing
-  * [1.3.2 Databases](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.3/1.3.2.md)
-  * [1.3.3 Networks](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.3/1.3.3.md)
+  * [**1.3.2 Databases**](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.3/1.3.2.md)
+  * [**1.3.3 Networks**](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.3/1.3.3.md)
   * [1.3.4 Web technologies](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.3/1.3.4.md)
 
 * **1.4 Data types, data structures and algorithms**
-  * [1.4.1 Data types](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.4/1.4.1.md)
+  * [**1.4.1 Data types**](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.4/1.4.1.md)
   * [1.4.2 Data structures](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.4/1.4.2.md)
   * 1.4.3 Boolean Algebra
 
@@ -37,18 +37,18 @@ Jake Morrishs' Computer Science Blog
 
 ### Algorithms and programming - Component 2
 * **2.1 Elements of computational thinking**
-  * 2.1.1 Thinking abstractly
-  * 2.1.2 Thinking ahead
+  * **2.1.1 Thinking abstractly**
+  * **2.1.2 Thinking ahead**
   * 2.1.3 Thinking procedurally
   * 2.1.4 Thinking logically
   * 2.1.5 Thinking concurrently
 
 * **2.2 Problem solving and programming**
-  * [2.2.1 Programming techniques](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%202.2/2.2.1.md)
-  * 2.2.2 Computational methods
+  * [**2.2.1 Programming techniques**](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%202.2/2.2.1.md)
+  * **2.2.2 Computational methods**
 
 * **2.3 Algorithms**
-  * 2.3.1 Algorithms
+  * **2.3.1 Algorithms**
 
 <br>
 
