@@ -20,7 +20,7 @@
   * 1.3.1 Compression, encryption and hashing
   * [1.3.2 Databases](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.3/1.3.2.md)
   * [1.3.3 Networks](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.3/1.3.3.md)
-  * [1.3.4 Web technologies](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.3/1.3.4.md)
+  * [**1.3.4 Web technologies**](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.3/1.3.4.md)
 
 * **1.4 Data types, data structures and algorithms**
   * [1.4.1 Data types](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.4/1.4.1.md)
