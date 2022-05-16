@@ -35,18 +35,18 @@
 
 ### Algorithms and programming - Component 2
 * **2.1 Elements of computational thinking**
-  * **2.1.1 Thinking abstractly**
-  * **2.1.2 Thinking ahead**
+  * 2.1.1 Thinking abstractly
+  * 2.1.2 Thinking ahead
   * 2.1.3 Thinking procedurally
   * 2.1.4 Thinking logically
   * 2.1.5 Thinking concurrently
 
 * **2.2 Problem solving and programming**
   * [2.2.1 Programming techniques](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%202.2/2.2.1.md)
-  * **2.2.2 Computational methods**
+  * 2.2.2 Computational methods
 
 * **2.3 Algorithms**
-  * **2.3.1 Algorithms**
+  * 2.3.1 Algorithms
 
 <br>
 
