@@ -64,4 +64,4 @@
   * [Farm](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Python%20Projects/Farm%20Project/Farm.md)
 
 * **Project Proposal**
-  * [Idea](https://github.com/JMorr4/Computer-Science/blob/main/Contents/BlackJack%20Project/BlackJack.md)
+  * [Idea]([https://github.com/JMorr4/Computer-Science/blob/main/Contents/BlackJack%20Project/BlackJack.md](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Project%20Proposal.md))
