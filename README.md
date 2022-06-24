@@ -65,3 +65,5 @@
 
 * **Project Proposal**
   * [Idea](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Project%20Proposal.md)
+  * [C# Notes](https://github.com/JMorr4/Computer-Science/blob/main/Contents/C%23%20Notes.md)
+ 
