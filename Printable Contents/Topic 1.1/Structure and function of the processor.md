@@ -19,6 +19,18 @@ The Central Processing Unit (CPU), is made up of several components which enable
 
 <br>
 
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
 ### Buses
 
 A **bus** is a set of parallel wires connecting two or more components of a computer. The CPU is connected to main memory by three seperate buses:
