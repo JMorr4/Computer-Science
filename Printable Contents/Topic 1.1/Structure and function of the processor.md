@@ -83,7 +83,7 @@ Data and control signals travel in both directions between the CPU, memory and p
 - Used in case of a data interruption or overflow.
 - It is made up of several bits that are used to indicate whether there has been a failure of some sort within the CPU.
 
-<br>
+<div style="page-break-after: always;"></div>
 
 ### Fetch-Decode-Execute Cycle
 
