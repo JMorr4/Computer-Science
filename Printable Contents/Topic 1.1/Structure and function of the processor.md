@@ -97,6 +97,10 @@ Data and control signals travel in both directions between the CPU, memory and p
 
 <br>
 
+<br>
+
+<br>
+
 ### Fetch-Decode-Execute Cycle
 
 #### Fetch
