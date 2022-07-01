@@ -120,6 +120,26 @@ The data to be operated on may be passed to the ALU depending on the instruction
 
 <br>
 
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
 ## Processor Performance
 
 The main factors affecting CPU performance are:
