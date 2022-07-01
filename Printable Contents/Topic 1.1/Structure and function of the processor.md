@@ -152,11 +152,6 @@ The data to be operated on may be passed to the ALU depending on the instruction
 
 ## Processor Performance
 
-The main factors affecting CPU performance are:
-- Clock speed
-- Number of cores
-- Cache
-
 ### Clock Speed
 - The **system clock** generates signals called **clock pulses** that switch between 1 and 0 several million times per second. CPU operations can only start as the clock changes from 0 to 1, and this helps synchronise all the CPU components.
 - These clock pulses are transmitted via the **control unit**.
@@ -175,6 +170,8 @@ The main factors affecting CPU performance are:
 - There are two types of cache:
   - **Level 1 Cache** is primary cache, which is faster but has less memory storage
   - **Level 2 Cache** is secondary cache, which is slower (still fairly fast) but has a larger memory storage
+
+<br>
 
 <br>
 
