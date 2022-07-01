@@ -61,8 +61,6 @@ Data and control signals travel in both directions between the CPU, memory and p
 - Arithmetic operations performs instructions on fixed or floating point numbers.
 - Logical operations carries out Boolean logic operations
 
-<br>
-
 ### Registers
 
 #### The Program Counter (PC)
