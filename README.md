@@ -39,7 +39,6 @@
   * 2.1.2 Thinking ahead
   * [2.1.3 Thinking procedurally](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%202.1/2.1.4.md)
   * 2.1.4 Thinking logically
-  
   * 2.1.5 Thinking concurrently
 
 * **2.2 Problem solving and programming**
