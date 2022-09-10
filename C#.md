@@ -1,4 +1,4 @@
-```
+```c#
 // Allows the "System" library to be used, which includes the Console class and WriteLine function
 using System;
 
