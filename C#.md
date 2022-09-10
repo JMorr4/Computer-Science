@@ -82,13 +82,22 @@ Finding the maximum value between multiple values
 Console.WriteLine(Math.Min(5, 10));
 ```
 
-Finding the maximum value between multiple values
+Returns the square root of a given value
 ```c#
 Console.WriteLine(Math.Sqrt(64));
 ```
 
+Returns the positive value of a given value
+```c#
+Console.WriteLine(Math.Abs(-4.7));
+```
 
+Rounds a value to the nearest whole number
+```c#
+Console.WriteLine(Math.Round(9.99));
+```
 
+ 
 
 
 
