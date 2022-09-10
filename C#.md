@@ -68,6 +68,25 @@ string userName = Console.ReadLine();
 Console.WriteLine("Username is: " + userName);
 ```
 
+<br>
+
+#### Maths
+
+Finding the maximum value between multiple values
+```c#
+Console.WriteLine(Math.Max(5, 10));
+```
+
+Finding the maximum value between multiple values
+```c#
+Console.WriteLine(Math.Min(5, 10));
+```
+
+Finding the maximum value between multiple values
+```c#
+Console.WriteLine(Math.Sqrt(64));
+```
+
 
 
 
