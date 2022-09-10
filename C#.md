@@ -1,8 +1,7 @@
-```using System;```
-Allows the "System" library to be used, which includes the Console class and WriteLine function
-
-
 ```c#
+// Allows the "System" library to be used, which includes the Console class and WriteLine function
+using System;
+
 // Namespaces are used to organise code into logical groups, and also prevents name collisions
 namespace HelloWorld
 {
