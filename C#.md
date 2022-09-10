@@ -12,7 +12,12 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.Write("Hello Jake! ");
-            Console.WriteLine("How do you do?");
+        }
+    }
+}
+```
+
+```Console.WriteLine("How do you do?");
 
             int answer = 32;
             Console.WriteLine("The number is " + answer);
@@ -44,6 +49,4 @@ namespace HelloWorld
             Console.WriteLine("Username is: " + userName);
 
         }
-    }
-}
 ```
