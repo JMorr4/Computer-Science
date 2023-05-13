@@ -6,6 +6,10 @@ After Iteration 4, I hit a brick wall to the point where I realised I couldn't c
 
 ![image](https://github.com/JMorr4/Computer-Science/assets/90699946/7343f7ac-74a7-4ecd-91e5-55ebc93b579d)
 
+### Final Tests
+![image](https://github.com/JMorr4/Computer-Science/assets/90699946/981d67fb-6d1c-4e3a-afe2-b0967e694037)
+
+
 ### Final Code
 ```python
 import random
