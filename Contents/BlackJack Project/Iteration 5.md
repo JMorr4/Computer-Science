@@ -14,6 +14,10 @@ After Iteration 4, I hit a brick wall to the point where I realised I couldn't c
 #### Win by dealer bust
 ![image](https://github.com/JMorr4/Computer-Science/assets/90699946/cf06347f-5c15-43b1-9537-cccac5946916)
 
+#### Loss by player bust
+![image](https://github.com/JMorr4/Computer-Science/assets/90699946/5f568eb7-3731-4dee-a7b7-6d9f21f634c5)
+
+
 
 
 ### Final Code
