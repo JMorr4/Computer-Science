@@ -8,9 +8,10 @@ After Iteration 4, I hit a brick wall to the point where I realised I couldn't c
 
 ### Final Tests
 
-#### Thing
+#### Draw
 ![image](https://github.com/JMorr4/Computer-Science/assets/90699946/981d67fb-6d1c-4e3a-afe2-b0967e694037)
 
+#### Win by dealer bust
 ![image](https://github.com/JMorr4/Computer-Science/assets/90699946/cf06347f-5c15-43b1-9537-cccac5946916)
 
 
