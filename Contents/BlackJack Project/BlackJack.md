@@ -9,3 +9,5 @@
 ## [Iteration 3](https://github.com/JMorr4/Computer-Science/blob/main/Contents/BlackJack%20Project/Iteration%203.md)
 
 ## [Iteration 4](https://github.com/JMorr4/Computer-Science/blob/main/Contents/BlackJack%20Project/Iteration%204.md)
+
+## [Iteration 5](https://github.com/JMorr4/Computer-Science/blob/main/Contents/BlackJack%20Project/Iteration%205.md)
